@@ -49,3 +49,5 @@ I hope this research can provide personalized music recommendations for people w
 *commit message - Fix EEG terminology and improve formatting*
 - Commit directly to the main branch.
 - Create a new branch
+
+  Email - Taiguo@jebelalischool.org
