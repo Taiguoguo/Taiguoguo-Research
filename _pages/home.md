@@ -19,7 +19,10 @@ information retrieval, neuroscience, and data science.
   - **Music Analysis**: Extracting tempo, harmony, spectral features
   - **Sleep Physiology**: EEG, heart rate, movement monitoring
   - **Data Science**: Statistical modeling and machine learning applications
- 
+
+ ## Browse Sections
+ -[About My Research](/about/)
+ -[Project Methodology](/project/)
   ---
 
   *This site is continuously updated as the research progresses.*
