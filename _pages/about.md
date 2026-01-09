@@ -29,6 +29,20 @@ Based on my current research design, I plan to:
 
 I hope this research can provide personalized music recommendations for people with sleep disorders and improve their sleep quality. 
 
+
+## Planned Analysis
+
+### 1. Spectral Analysis of Music
+- Compare frequency distributions of relaxing vs. stimulating music
+- Identify acoustic features correlated with sleep onset
+
+### 2. Sleep Architecture Analysis
+- Analyze sleep stages (N1,N2 N3, NERM) under different music conditions
+- Measure sleep efficiency, wake after sleep onset (WASO)
+
+### 3. Statistical Modeling
+- Use linear mixed people to account for individual differences
+- Machine learning: Predict sleep quality from music features
 ---
 
 *You are welcome to provide feedback or discuss collaboration opportunities!*
