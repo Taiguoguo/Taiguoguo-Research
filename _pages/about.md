@@ -1,6 +1,6 @@
 # About My Research
 
-This is an interdisciplinary project to exploring how music affects sleep. I combined music analysis, neuroscience and data processing methods to understand the impact of different musical elements on sleep quality.
+This is an interdisciplinary project exploring how music affects sleep. I combined music analysis, neuroscience and data processing methods to understand the impact of different musical elements on sleep quality.
 
 ## Research Background
 
@@ -17,18 +17,21 @@ Based on my current research design, I plan to:
    Conduct controlled sleep studies to investigate how specific musical elements influence sleep patterns and quality
 
 3. Data collection
-  Record physiological signals during sleep, including EGG (brain waves), heart rate, and movement data.
+  Record physiological signals during sleep, including EEG (brain waves), heart rate, and movement data.
 
 4. Data Analysis
    Apply statistical methods and machine learning models to identify correlations between music characteristics and sleep metrics.
 
-   *This methodology represents my proposed reasearch framework and may be refined as the project develops. 
+   *This methodology represents my proposed reasearch framework and may be refined as the project develops.*
 
 
 ## Vision
 
-I hope this research can provide personalised music recommendations for people with sleep disorders and improve their sleep quality. 
+I hope this research can provide personalized music recommendations for people with sleep disorders and improve their sleep quality. 
 
 ---
 
-*You are welcome to make suggestions or cooperate with my research!*
+*You are welcome to provide feedback or discuss collaboration opportunities!*
+*commit message - Fix EEG terminology and improve formatting*
+- Commit directly to the main branch.
+- Create a new branch
