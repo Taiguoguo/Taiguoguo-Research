@@ -1,22 +1,34 @@
-# about my research
+# About My Research
 
-This is an interdisciplinary project ot explore how music affects sleep. I combined music analysis, neuroscience and data processing methods to try to understand the impact of different musical elements on sleep quality.
+This is an interdisciplinary project to exploring how music affects sleep. I combined music analysis, neuroscience and data processing methods to understand the impact of different musical elements on sleep quality.
 
-## Research background
+## Research Background
 
 Modern people generally face sleep problems, and music, as a non-drug intervention, has potential application value. My research aims to systematically explore the relationship between music and sleep.
 
-## Method
+## Methodology (Planned Approach)
 
-- collect music samples of different styles and analyse their spectrum, rhythrm, harmony and other characteristics.
+Based on my current research design, I plan to:
 
-- Design sleep experiments to record the physiological signals of participants(such as heart rate, brain waves)
+1. Music Analysis Phase
+    Collect and analyze diverse music samples, focusing on acoustic features such as spectrum, rhythm, harmony, and tempo.
 
-- Use statistical methods and machine learning models to analyse data and find the relationship between music characteristics and sleep indicators
+2. Experimental Design
+   Conduct controlled sleep studies to investigate how specific musical elements influence sleep patterns and quality
+
+3. Data collection
+  Record physiological signals during sleep, including EGG (brain waves), heart rate, and movement data.
+
+4. Data Analysis
+   Apply statistical methods and machine learning models to identify correlations between music characteristics and sleep metrics.
+
+   *This methodology represents my proposed reasearch framework and may be refined as the project develops. 
+
 
 ## Vision
 
 I hope this research can provide personalised music recommendations for people with sleep disorders and improve their sleep quality. 
 
 ---
+
 *You are welcome to make suggestions or cooperate with my research!*
