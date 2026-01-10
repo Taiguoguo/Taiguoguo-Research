@@ -60,6 +60,29 @@ I hope this research can provide personalized music recommendations for people w
 
   ## Key references
 
+### 1. My first reference
+“Although sleep loss is a normative psychosocially and biologically driven developmental process, it occurs alongside behaviours that characterize adolescence, including deepening cognitive sophistication, improved emotion regulation, and intensifying social cognition, calling into question how sleep may impact these developmental milestones. (Adriana Galvan, 2020).”
+*Relevance*: 
+
+*Connect to my research*: 
+
+### 2. My second reference
+As demonstrated by student A, the sleeping patterns is form 5:50 AM wake up and sleep at 10:00PM, total duration approximately 7 hours 50 minutes. The whole sleeping duration is it sufficient, it needs to connect sleeping quality and daytime productivity as comprehensive assessment. Galván, A. (2020). The Need for Sleep in the Adolescent Brain. Trends in Cognitive Sciences, 24(1),79-89. 
+*Relevance*: 
+
+*Connect to my research*:
+
+---
+
+*This referenece list represents the methodological foundation of my current work. I continue to review emerging literautre in music neuroscience and sleep science.* 
+
+### Additional Literature Under Review
+- Music-sleep interaction studies
+- Acoustic feature extraction methods
+- Personalized intervention frameworks
+
+*I am actively expanding this literature base as my research progresses.*
+
 ### Foundational Papers Supporting My Methodology:
 
 1. **
