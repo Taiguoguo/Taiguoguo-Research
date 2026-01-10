@@ -48,4 +48,25 @@ This project investigates how acoustic features of music influence sleep archite
 - **Mid-term Goal**: Complete data acquisition and peliminary analysis
 - **Final Objective**: Formulate comprehensive findings and prepare scholarly dissemination
 
+  ## Technical Stack
+
+  ### Music Analysis
+  - **Librosa** (Python): Feature extraction (MFCCs, tempo, spectral contrast)
+  - **MIRtoolbox** (MATLAB): Advanced music information retrieval
+ 
+  ### Sleep data processing
+  - **YASA** (Python): Automated sleep staging from EEG
+  - **MNE-Python**: EEG preprocessing and visualization
+  - **ActiGraph software**: Movement analysis
+ 
+  ### Statistical Analysis
+  - **R** (lme4, ggplot2): Linear mixed-effects models, visualization
+  - **Python** (pandas, scikit-learn): Data processing, machine learning
+ 
+  ### Hardware & Recording
+  - Research-grade EEG system (e.g., SOMMOtouch, Embla)
+  - PPG sensors for heart rate variability
+  - sound-iosolated sleep laboratroy setup
+ 
+    
 * This is a dynamic research roadmap, iteratively optimized based on emerging insights and resource availability.*
