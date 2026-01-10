@@ -50,4 +50,14 @@ I hope this research can provide personalized music recommendations for people w
 - Commit directly to the main branch.
 - Create a new branch
 
+  ## My Approach: Connecting Music, Sleep, and Data
+
+  I work at the interseciton of three fields:
+
+  1. **Music Analysis** - Studying what makes music relaxing or stimulating
+  2. **Sleep Science** - Measuring how our brain and body sleep
+  3. **Data Science** - Finding patterns in the relationship between music and sleep
+ 
+  This unique combination allows me to ask new questions and find practical solutions for sleep improvement through music. 
+
   Email - Taiguo@jebelalischool.org
