@@ -57,6 +57,15 @@ I hope this research can provide personalized music recommendations for people w
   1. **Music Analysis** - Studying what makes music relaxing or stimulating
   2. **Sleep Science** - Measuring how our brain and body sleep
   3. **Data Science** - Finding patterns in the relationship between music and sleep
+
+  ## Key references
+
+### Foundational Papers Supporting My Methodology:
+
+1. **
+  ### Foundational Papers:
+  1. **Music and Sleep**
+     
  
   This unique combination allows me to ask new questions and find practical solutions for sleep improvement through music. 
 
