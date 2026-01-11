@@ -43,7 +43,7 @@ I hope this research can provide personalized music recommendations for people w
 ### 3. Statistical Modeling
 - Use linear mixed people to account for individual differences
 - Machine learning: Predict sleep quality from music features
----
+
 
 *You are welcome to provide feedback or discuss collaboration opportunities!*
 *commit message - Fix EEG terminology and improve formatting*
@@ -58,28 +58,28 @@ I hope this research can provide personalized music recommendations for people w
   2. **Sleep Science** - Measuring how our brain and body sleep
   3. **Data Science** - Finding patterns in the relationship between music and sleep
 
-  ## Key references
+  ## Key References
 
-### 1. My first reference
-“Although sleep loss is a normative psychosocially and biologically driven developmental process, it occurs alongside behaviours that characterize adolescence, including deepening cognitive sophistication, improved emotion regulation, and intensifying social cognition, calling into question how sleep may impact these developmental milestones. (Adriana Galvan, 2020).”
-*Relevance*: 
+### Adolescent Sleep: Theoretical Frameworks and Practical Challenges
+**Galván, A. (2020).** The need for sleep in the adolescent brain. *Trends in Cognitive Sciences*, 24(1), 79-89. 
 
-*Connect to my research*: 
 
-### 2. My second reference
-As demonstrated by student A, the sleeping patterns is form 5:50 AM wake up and sleep at 10:00PM, total duration approximately 7 hours 50 minutes. The whole sleeping duration is it sufficient, it needs to connect sleeping quality and daytime productivity as comprehensive assessment. Galván, A. (2020). The Need for Sleep in the Adolescent Brain. Trends in Cognitive Sciences, 24(1),79-89. 
-*Relevance*: 
+#### 1. **Developmental Science Perspective**
+   "Although sleep loss is a normative psychosocially and biologically driven developmental process, it occurs alongside behaviours that characterize adolescene, including deepening cognitive sophisticaiton, improved emotion regulation, and intensifying social cognition, calling into question how sleep may impact these developmental milestones" (Galván, 2020, p.82).
 
-*Connect to my research*:
+#### 2. **Real-World Sleep Constraints**
+   Galván documents cases such as "Student A"- whose school schedule permits only 7 hours 50 minutes of sleep nightly-illustrating how environmental and social demands frequently restrict adolescents to suboptimal sleep durations.
 
----
+#### Connection to My Music-Sleep Research:
+This work provides the essential dual foundation for my project:
+- **Theoretical**: Establishes why sleep is critically important for adolescent brain development and functioning.
+- **Practical**: Demonstrates the widespread occurrence of insufficient sleep, creating a clear need for accessible, non-invasive interventions.
+
+By showing both *why* adolescent sleep matters and *how often* it is compromised, Galván's analysis directly motivates my investigation into whether personlized music listening could serve as a feasible, engaging method to improve sleep quality within these real-world constraints. 
 
 *This referenece list represents the methodological foundation of my current work. I continue to review emerging literautre in music neuroscience and sleep science.* 
 
-### Additional Literature Under Review
-- Music-sleep interaction studies
-- Acoustic feature extraction methods
-- Personalized intervention frameworks
+
 
 *I am actively expanding this literature base as my research progresses.*
 
