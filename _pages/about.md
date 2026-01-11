@@ -58,7 +58,16 @@ I hope this research can provide personalized music recommendations for people w
   2. **Sleep Science** - Measuring how our brain and body sleep
   3. **Data Science** - Finding patterns in the relationship between music and sleep
 
-  ## Key References
+  
+*This referenece list represents the methodological foundation of my current work. I continue to review emerging literautre in music neuroscience and sleep science.* 
+
+
+
+*I am actively expanding this literature base as my research progresses.*
+
+### Foundational Papers Supporting My Methodology:
+
+### Key References
 
 ### Adolescent Sleep: Theoretical Frameworks and Practical Challenges
 **Galván, A. (2020).** The need for sleep in the adolescent brain. *Trends in Cognitive Sciences*, 24(1), 79-89. 
@@ -77,17 +86,7 @@ This work provides the essential dual foundation for my project:
 
 By showing both *why* adolescent sleep matters and *how often* it is compromised, Galván's analysis directly motivates my investigation into whether personlized music listening could serve as a feasible, engaging method to improve sleep quality within these real-world constraints. 
 
-*This referenece list represents the methodological foundation of my current work. I continue to review emerging literautre in music neuroscience and sleep science.* 
 
-
-
-*I am actively expanding this literature base as my research progresses.*
-
-### Foundational Papers Supporting My Methodology:
-
-1. **
-  ### Foundational Papers:
-  1. **Music and Sleep**
      
  
   This unique combination allows me to ask new questions and find practical solutions for sleep improvement through music. 
