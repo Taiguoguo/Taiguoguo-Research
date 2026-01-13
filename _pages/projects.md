@@ -70,3 +70,11 @@ This project investigates how acoustic features of music influence sleep archite
  
     
 * This is a dynamic research roadmap, iteratively optimized based on emerging insights and resource availability.*
+
+## Research Poster
+
+![Music and Sleep Reseaerch Poster](assets/images/research-poster.png)
+
+*This poster visually summarizes the interdisciplinary framework of my music-sleep research.*
+
+[Download full poster PDF](assets/images/research-poster.pdf)
