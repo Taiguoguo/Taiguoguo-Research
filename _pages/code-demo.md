@@ -62,6 +62,7 @@ if __name__ == "__main__":
     for feature, value in sample_features.items():
         print(f"{feature:25s}: {value:8.4f}")
 
+
     # Simple sleep suitability heuristic (for demonstration)
     if sample_features['tempo_bpm'] < 80 and sample_features['spectral_centroid'] < 2000:
       print("\n This music has cahracteristics often associated with relaxation.)
@@ -84,6 +85,8 @@ def analyze_sleep_data(egg_data, music_features):
 
     return pipeline
 
+# 2. Planned EEG/Sleep Data Processing
+# Conceptual Pipeline:
 # Key sleep metrics to extract:
 sleep_metrics = [
     'sleep_efficiency',       # Time asleep / time in bed
@@ -94,7 +97,8 @@ sleep_metrics = [
     'sleep_architecture'      # Pattern of sleep stages
 ]
 
-
+# 3. Statistical Analysis Plan
+# R/Python Code Structure
 # R code example for mixed-effects modeling
 # (This shows the planned analytical approach)
 
@@ -118,6 +122,7 @@ Music Samples
 [Statistical Analysis] - Mixed models, machine learning
 [Perosnalized Rules] - "If feature X, then recommend music type Y"
 
+# 4. Technical Stack & Tools
 # Planned Implementation:
 
 compoment          Tool/Software            Purpose
@@ -139,6 +144,7 @@ Visualization        Matplotlib, Seaborn, ggplot2    Results communication
 
 Open Science Commitment
 
+# 5. Open Science Commitment
 All analysis code will be:
 
 1. Version controlled on GitHub
@@ -146,6 +152,7 @@ All analysis code will be:
 3. Modular for reuse by other researchers
 4. Accompanied by sample data for verification
 
+# 6. Discussion Points for Adviser Meeting
 Technical Questions for Explore:
 
 1. Feature Selection: Which acoustic features are most theoretically justified for sleep applications?
@@ -157,5 +164,22 @@ Technical Questions for Explore:
 - Computational requirements for feature extraction
 - EEG preprocessing pipeline optimization
 - Data storage and sharing protocols
+
+# Code & Technical Implementation
+
+## Overview
+This page demonstrates the planned technical implementation for my music-sleep research project.
+
+## 4. Integration Framework
+
+### Data Flow Sequence:
+1. Music Samples
+2. Librosa Feature Extraction (tempo, spectral features, harmony)
+3. Experimental Session with Participants
+4. EEG & Physiological Recording During Sleep
+5. Data Preprocessing & Sleep Staging
+6. Statistical Analysis & Modeling
+7. Personalized Recomendation Rules
+
 
 This technical implementation represents the current planning stage and will be refined through iterative development and adviser feedback. 
