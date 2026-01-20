@@ -13,7 +13,7 @@ information retrieval, neuroscience, and data science.
 ## Quick Links
 - [About the Research](/about/)
 - [Project Methodology](/project/)
-- [View on GitHub](https://github.com/Taiguoguo/Taiguoguo-Research)
+- [View on GitHub](https://github.com/Taiguoguo/Taiguoguo-Research) 
 
   ## Research Focus
   - **Music Analysis**: Extracting tempo, harmony, spectral features
