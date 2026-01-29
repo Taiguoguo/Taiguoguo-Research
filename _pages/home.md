@@ -27,7 +27,7 @@ information retrieval, neuroscience, and data science.
 
   ## Explore Further
   - [About the Research](/about/)
-  - [Project MEthodology](/project/)
+  - [Project Methodology](/project/)
   - [Technical Implementation](/code-demo/)
   
   *This site is continuously updated as the research progresses.*
