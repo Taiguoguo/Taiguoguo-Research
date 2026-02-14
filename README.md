@@ -6,3 +6,6 @@ This project integrates **brain science, medicine, pharmacology, data science an
 
 > * "How does the electrical activity of the brain change when consciousness disappears? Why do different drugs produce completely different EEG patterns?*
 > * 
+## Project file
+- 'main.py': Original EEG signal analysis
+- 'sleep_analyzer.py': Sleep Stage Analysis System(Latest)
