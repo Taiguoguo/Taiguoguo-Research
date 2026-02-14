@@ -13,3 +13,6 @@ This project integrates **brain science, medicine, pharmacology, data science an
 ## The effect of music speed on electroencephalogram
 
 The study found that **60 BPM slow music is the most conducive to relaxation** (the highest brain power), while 80-120 BPM music gradually turns to a state of concentration and excitement. This shows that music speed can indeed regulate the state of the brain, which provides a reference for music therapy and cognitive enhancement. 
+
+## Thank you
+Thanks for Dr.Osmosa's interdisciplinary course, I realised that science can be expressed so artistically. 
