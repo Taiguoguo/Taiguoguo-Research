@@ -16,5 +16,6 @@ The study found that **60 BPM slow music is the most conducive to relaxation** (
 
 ## code description
 This project contains EEG signal analogue code. Due to the limitations of the operating environment, it is recommended to run in the local Python environment. 
+
 ## Thank you
 Thanks for Dr.Osmosa's interdisciplinary course, I realised that science can be expressed so artistically. 
