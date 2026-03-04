@@ -1,8 +1,14 @@
-## Literature note
+## Literature note: Ramadan, sleep, and dates
 
-I searched Google Scholar for:
-- "Ramadan sleep EEG" - many results
-- "Ramadan sleep EEG date" - no results
+## What I searched
+- Google Scholar: "Ramadan sleep EEG" - many results
+- Google Scholar: "Ramadan sleep EEG date" - **no results**
 
-This suggests that the effect of data consumption on sleep during Ramadan has not been studied. 
-My project is asking a question no one has asked yet.
+## What this means
+The effect of date consumption on sleep during Ramadan has not been studied.
+
+## My question
+Does eating dates during Ramadan affect sleep EEG?
+
+## Next step
+I will start by collecting simple survey data from classmates during Ramadan.
