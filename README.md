@@ -85,4 +85,4 @@ Ultimately, this computational framework provides the theoretical data foundatio
 Thanks to Dr.Osmosa's interdisciplinary course for inspiring me to explore the intersection of neuroscience, music, and data science. 
 
 ## Thank you
-Thanks for Dr.Osmosa's interdisciplinary course, I realised that science can be expressed so artistically. 
+Thanks for Dr.Osama's interdisciplinary course, I realised that science can be expressed so artistically. 
