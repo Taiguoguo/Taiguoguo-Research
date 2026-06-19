@@ -81,6 +81,23 @@ This algorithmic simulator serves as a live tactical software pipeline designed 
 
 Ultimately, this computational framework provides the theoretical data foundation required to engineer anti-static, bio-compatible material shielding (utilizing custom synthesized bioplastic polymer grids) to protect invasive brain-computer interfaces (**Neuralink closed-loop micro-stimulation architectures**) from electromagnetic and environmental phase delays during deep-space flight.
 
+
+### 🛰️ The Tri-Environment Neurological Matrix: Earth vs. Space vs. Mars
+
+To validate the multi-variable reliability of this Stochastic Markov Chain Simulator, the prefrontal cortical-motor transition probabilities are cross-analyzed across three distinct physiological gravitational baselines:
+
+####  1. Earth Baseline (1.0g - Homeostatic Synchronization)
+*   **Neurological Mechanism**: Under normal terrestrial gravity, the autonomic nervous system maintaining human homeostatic baseline operates with high stability. The prefrontal cortex undergoes uninterrupted slow-wave sleep (SWS / N3 stage) synchronization.
+*   **Algorithmic Trajectory**: The Markov chain models a highly efficient and stable progression. The `wake_probability` remains locked at a controlled baseline of `0.05 - 0.12`, yielding long, unfragmented blocks of high-density N3 deep sleep arrays and optimal metabolic restoration indices.
+
+####  2. Deep-Space / Microgravity Matrix (0.0g - Total Cortical-Motor Dissociation)
+*   **Neurological Mechanism**: In zero-gravity environments during deep-space transit, the loss of somatic vestibular feedback eliminates hydrostatic pressure parameters within the cardiovascular system. This causes persistent micro-arousals (夜间惊惊醒), continuous circadian rhythm disruption, and catastrophic fragmentation of slow-wave sleep.
+*   **Algorithmic Trajectory**: The transition weights undergo severe phase-shifts. The `wake_probability` forces a dynamic leap to an extreme threshold of `0.35 - 0.45`. The simulation predicts high-frequency, chaotic state-jumping between N2 shallow and random Awake nodes, completely fracturing the continuous N3 block and inducing clinical **Cortical-Motor Dissociation (皮层-运动解离)**.
+
+####  3. Martian Environment Profile (0.38g - Adaptive Compensatory Oscillations)
+*   **Neurological Mechanism**: Martian partial gravity forces the human central nervous system into an active adaptive phase. The body tries to find a new equilibrium between terrestrial homeostatic stability and microgravity-induced degradation.
+*   **Algorithmic Trajectory**: The simulator implements a **Compensatory Stabilization Loop**. While the sleep trajectory remains somewhat fragmented compared to Earth, the transition matrix models a series of rapid, high-frequency "self-rescue" jumps back into the N3 deep sleep state. This creates a highly specific, sawtooth-shaped (锯齿状) jagged hypnogram profile, indicating that the prefrontal cortex is actively deploying a localized neuro-plastic defense mechanism to counter partial-gravity load.
+
 ## Acknowlegements
 Thanks to Dr.Osmosa's interdisciplinary course for inspiring me to explore the intersection of neuroscience, music, and data science. 
 
