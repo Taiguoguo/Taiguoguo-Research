@@ -64,6 +64,22 @@ condition |   time |
 **These more more important than the MNE**
 ## Future Work
 - MNE-Python for real EEG data anlysis (once I have access to a proper environment)
+# Computational Neuroscience Sleep Simulator V3.0 (SpaceX Interstellar Mission Support)
+
+## Architectural Design Intent & Interstellar Life-Support Application
+
+Standard static sleep tracking frameworks operate on linear, deterministic models that consistently fail when deployed against unstable biological telemetry. This project bridges the critical gap between computational material engineering and cross-disciplinary cognitive neuroscience. 
+
+By utilizing an advanced **Stochastic Markov Chain Transition Matrix**, this simulator dynamically models the precise, multi-layered phase-changes of the human prefrontal cortex across four primary sleep cycles: **N1 (Initial Infiltration), N2 (Shallow Attenuation), N3 (Deep Slow-Wave Synchronization), and REM (Cortical Desynchronization Stage)**.
+
+### SpaceX Mars Colonization & Closed-Loop Aerospace Life-Support Objectives
+In long-duration deep-space transit—such as the upcoming **SpaceX Mars Colonization Mission**—the human central nervous system undergoes severe neurological load. The constant structural exposure to interstellar micro-gravity environments and circadian rhythm disruption induces **Cortical-Motor Dissociation (皮层-运动解离)** and structural fragmentation of slow-wave sleep (N3 degradation). 
+
+This algorithmic simulator serves as a live tactical software pipeline designed to optimize closed-loop aerospace bio-telemetry. By mapping age-dependent biological decay scaling vectors and integrating spontaneous micro-arousals via stochastic modeling, this software delivers:
+1. **Predictive Stage Trajectory Plots (Clinical Hypnograms)** to forecast prefrontal slow-wave synchronization dropouts under high cosmic stress.
+2. **Dynamic Polar Coordinate Radar Mapping** to continuously audit real-time autonomic arousal stability and metabolic sleep efficiency for astronauts inside closed-loop habitats.
+
+Ultimately, this computational framework provides the theoretical data foundation required to engineer anti-static, bio-compatible material shielding (utilizing custom synthesized bioplastic polymer grids) to protect invasive brain-computer interfaces (**Neuralink closed-loop micro-stimulation architectures**) from electromagnetic and environmental phase delays during deep-space flight.
 
 ## Acknowlegements
 Thanks to Dr.Osmosa's interdisciplinary course for inspiring me to explore the intersection of neuroscience, music, and data science. 
