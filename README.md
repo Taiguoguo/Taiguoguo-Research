@@ -98,6 +98,7 @@ To validate the multi-variable reliability of this Stochastic Markov Chain Simul
 *   **Neurological Mechanism**: Martian partial gravity forces the human central nervous system into an active adaptive phase. The body tries to find a new equilibrium between terrestrial homeostatic stability and microgravity-induced degradation.
 *   **Algorithmic Trajectory**: The simulator implements a **Compensatory Stabilization Loop**. While the sleep trajectory remains somewhat fragmented compared to Earth, the transition matrix models a series of rapid, high-frequency "self-rescue" jumps back into the N3 deep sleep state. This creates a highly specific, sawtooth-shaped (锯齿状) jagged hypnogram profile, indicating that the prefrontal cortex is actively deploying a localized neuro-plastic defense mechanism to counter partial-gravity load.
 
+
 ## Acknowlegements
 Thanks to Dr.Osmosa's interdisciplinary course for inspiring me to explore the intersection of neuroscience, music, and data science. 
 
