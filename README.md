@@ -229,7 +229,7 @@ The primary processing challenge involved resolving unexpected name errors cause
 This research journey provided verified evidence that advanced neurological variables can be mathematically modeled and expressed with artistic precision. I mastered the fluid mechanics of casting structural polymer boundaries in materials science, the execution of zero-phase digital filtering to neutralize telemetry delays, and the deployment of structured version control via Git. This establishes a definitive technical lineage for future real-world EEG telemetry parsing using MNE-Python.
 
 ## Acknowlegements
-Thanks to Dr.Osmosa's interdisciplinary course for inspiring me to explore the intersection of neuroscience, music, and data science. Special thanks to Dr. Osama Abdullah and the interdisciplinary framework for inspiring me to explore the dynamic intersections of advanced cognitive neuroscience, acoustics, and data science.
+Thanks to Dr.Osama's interdisciplinary course for inspiring me to explore the intersection of neuroscience, music, and data science. Special thanks to Dr. Osama Abdullah and the interdisciplinary framework for inspiring me to explore the dynamic intersections of advanced cognitive neuroscience, acoustics, and data science.
 
 ## Thank you
 Thanks for Dr.Osama's interdisciplinary course, I realised that science can be expressed so artistically. Deepest gratitude to Dr. Osama Abdullah's computational platforms; through this research pipeline, I realized that elite science can be expressed with such profound artistic and mathematical harmony.
