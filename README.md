@@ -1,5 +1,5 @@
 # Anaesthetic drugs and electroencephalogram: from neuroscience to clinical application
-This project asks: Does date consumption affect sleep EEG during Ramadan?
+This project asks: Does date consumption affect sleep EEG during Ramadan? Further explorer on space field effects on the brain effect, sleep quality, sleep duration, and N3 stage movement.
 ## Project Overview
 
 This project integrates **brain science, medicine, pharmacology, data science and visualisation technology** to systematically study the effects of five commonly used anaesthetics on electroencephalography(EEG). By simulating the electroencephalogram waveform in different anaesthesia states, we can explore the neural anaesthesia states, we can explore the neural mechanism of consciousness loss and provide visualisation tools for in-depth monitoring of clinical anaesthesia.
